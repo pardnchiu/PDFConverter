@@ -1,0 +1,4 @@
+*.js
+!*.min.js
+workspace.code-workspace
+.DS_Store
